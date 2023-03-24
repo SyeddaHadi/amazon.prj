@@ -1,0 +1,152 @@
+
+#df{
+   
+     width: 100%;
+     height: 30vh;
+     border: solid 1px white;
+     background-color: white;
+     margin-top: 100%;
+}
+#df1{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 20vh;
+    border: solid 1px rgb(218, 217, 217);
+    border-radius: 4px;
+    margin-top: 4%;
+}
+#pf{
+    text-align: center;
+    font-size: small;
+    margin-top: 2%;
+    
+}
+#inpf{
+   margin: 1% 37.5%;
+   background-color: #fdca49;
+   border-radius: 5px;
+   border-color: #fdca49;
+   width: 25%;
+   height: 25px;
+   font-size: x-small;
+   font-weight: 700;
+  
+   
+}
+#inpf:hover{
+    cursor: pointer;
+}
+#pf1{
+    text-align: center;
+    font-size: x-small;
+}
+#af{
+    text-decoration: none;
+    display: inline-block;
+    color: #007185;
+    margin-left: -2%;
+    margin-top: -2%;
+
+}
+#af:hover{
+    color: rgb(255, 43, 43);
+}
+#df2{
+    width: 100%;
+    height: 8vh;
+    border: solid 1px #37475a;
+    background-color: #37475a;
+}
+#df2>a{
+    font-size: small;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 1.5%;
+}
+#df2:hover{
+    background-color: #37475ae8;
+    cursor: pointer;
+}
+#df3{
+    width: 100%;
+    height: 60vh;
+    border: solid 1px#152231;
+    background-color:#152231;
+}
+hr{
+    color: rgb(125, 124, 124);
+    background-color: rgb(68, 67, 67);
+    height: 0.1vh;
+}
+#df4{
+    width: 100%;
+    height: 10vh;
+    border: solid 1px  #152231 ;
+    background-color: #152231;
+}
+#df3>ul{
+    list-style: none;
+    font-size: small;
+   
+}
+ #df3>#dov{
+    /* width: 23%;
+    height: 50vh;
+    border: solid 1px #152231;
+    float: left;
+    margin-top: 5%; */
+    margin-left: 2%;
+    
+} 
+#df3>div{
+    width: 22%;
+    height: 50vh;
+    border: solid 1px #152231;
+    float: left;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+
+#df3 div>ul{
+    list-style: none;
+    font-size: x-small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.b0{
+    font-size: 13px;
+    font-weight: 550;
+    color: white;
+    margin-left: 8%;
+    
+    
+}
+#df3 ul li>a:hover{
+    text-decoration: underline;
+}
+#divp>p{
+    margin-left: 31%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#divp p>a:hover{
+    text-decoration: underline;
+}
+#divp p>a{
+    font-size: x-small;
+    float: left;
+}
+#pf{
+    color: white;
+    text-align: center;
+    font-size:x-small ;
+}
+.alast{
+    margin-left: -3%;
+}
+#last{
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(218, 217, 217);
+}
+.dm1{
+    width: 100%;
+    height: 50vh;
+    border: solid 2px white;
+    margin-top: 1.5%;
+    background-color: white;
+    display: inline-block;
+    
+    
+   
+}
+.dm1 p{
+    margin-top: 10% ;
+    margin-left: 5%;
+
+}
+.dm1 img{
+    width: 40% ;
+    margin-left:50% ;
+    margin-top: -110px;
+    
+}
+#h{
+    font-weight: 900;
+    font-size: 30px;
+    color: rgb(124, 110, 94);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.dm{
+    width: 28%;
+    height: 68vh;
+    border: solid 1px white;
+    background-color: white;
+    float: left;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+.d1{
+    width: 100%;
+    height: 10vh;
+    border: solid 1px white;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    margin-top: 4%;
+}
+.dd{
+    width: 40%;
+    height: 20vh;
+    /* border: solid 1px black; */
+    margin-left: 15px;
+    float: left;
+    margin-top: 5%;
+}
+.dd0{
+    margin-top: 2%;
+}
+#im{
+    margin-top: 16%;
+}
+.dda{
+    color: black;
+}
+ /* .pa{
+    color: rgb(0, 136, 255);
+    margin-left:-20px;
+}  */
+.divv{
+    width: 100%;
+    height: 8vh;
+   
+    margin-left: -105px;
+    margin-top: 30px;
+}
+.divv:hover{
+    color: orangered;
+    text-decoration: underline;
+    
+    
+}
+.divv>a{
+    color: rgb(37, 134, 179);
+    font-size: small;
+
+}
+.divv>a:hover{
+    color: orangered;
+}
+.dp{
+    width: 90%;
+    height: 45vh;
+    
+    margin-left: 5%;
+}
+.dp>a>img{
+    width: 175px;
+    height: 210px;
+    
+}
+.d{
+margin-left: 5%;
+margin-top: 20px;
+}
